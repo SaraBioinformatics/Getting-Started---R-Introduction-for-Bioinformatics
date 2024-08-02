@@ -22,3 +22,17 @@ Students and researchers new to bioinformatics and R programming.
 Biologists looking to integrate computational methods into their research.
 Data scientists interested in applying their skills to biological data.
 Anyone with a passion for learning bioinformatics through practical examples and hands-on exercises.
+
+Chapter-1: Getting-started-with-R
+
+Getting started
+Getting R
+Getting Rstudio
+Lets play
+Using R as a giant calculator
+your first script
+Intermezzo remarks
+Important functionality packages
+Getting help
+A mini practical - some in depth play
+some more top tips and hint for a successful first R experience
